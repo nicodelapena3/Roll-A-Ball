@@ -8,7 +8,7 @@
 > Down Arrow - Move Backwards <br>
 > Right Arrow - Move Right <br>
 > Left Arrow - Move Left <br>
-> Spacebar - Jump
+
 
 
 ![Alt text] (https://github.com/nicodelapena3/Roll-A-Ball/blob/master/screenshots/rollball.jpg
